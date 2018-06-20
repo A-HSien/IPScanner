@@ -1,0 +1,16 @@
+{
+  "name": "ip-scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "serve": "node main.js",
+    "test": "node main.js & node testClient.js"
+  },
+  "devDependencies": {
+    "socket.io": "2.0.1",
+    "socket.io-client": "2.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
